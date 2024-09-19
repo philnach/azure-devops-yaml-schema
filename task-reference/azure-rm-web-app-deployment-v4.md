@@ -1107,7 +1107,7 @@ The task can be used to deploy to a range of Azure App Services such as:
 * [Web Apps for Containers](/azure/app-service/containers/app-service-linux-intro)
 * [Function Apps on both Windows and Linux](/azure/azure-functions/)
 * [Function Apps for Containers](/azure/azure-functions/)
-* [WebJobs](https://azure.microsoft.com/blog/webjobs-goes-into-full-production/)
+* [WebJobs](/azure/app-service/webjobs-create)
 * Apps configured under [Azure App Service Environments](/azure/app-service/environment/intro)
 
 ### Prerequisites for the task
